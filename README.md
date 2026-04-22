@@ -48,7 +48,7 @@ git clone https://github.com/guri5405/03simplerouterworking.git
 2. Navigate to the project folder
 
 ```bash
-cd routerdemo
+cd 03simplerouterworking
 ```
 
 3. Install dependencies
